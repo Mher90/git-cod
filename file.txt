@@ -1,0 +1,15 @@
+~git log
+~git show
+~git config --global user.name "Mher90"
+~git config --global user.email tigranyan.mher@gmail.com
+~vim ~/.gitconfig
+~git config --global core.editor "vim"
+~ git init
+~git remote add origin https://github.com/Mher90/firstRepasitori.git
+~git status
+~git pull
+~git pull origin master
+~git add README.md
+~git commit
+~git push
+~git push --set-upstream origin master
